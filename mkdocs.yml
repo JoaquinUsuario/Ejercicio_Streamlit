@@ -1,0 +1,18 @@
+site_name: Dashboard de Datos Simple
+repo_url: https://github.com/Martii03/Ejercicio_Streamlit
+repo_name: Martii03/Ejercicio_Streamlit
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+
+nav:
+  - Inicio: index.md
+  - Aplicación: stapp.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences 
