@@ -4,6 +4,8 @@
 
 Este proyecto es una aplicación web interactiva construida con Streamlit que permite a los usuarios cargar, visualizar y analizar datos de manera sencilla y efectiva.
 
+[Ver la documentación completa aquí »](https://martii03.github.io/Ejercicio_Streamlit)
+
 ![Ejemplo de Dashboard](img/foto-app.jpeg)
 
 *Ejemplo de visualización del dashboard*
