@@ -4,6 +4,10 @@
 
 Este proyecto es una aplicación web interactiva construida con Streamlit que permite a los usuarios cargar, visualizar y analizar datos de manera sencilla y efectiva.
 
+![Ejemplo de Dashboard](img/foto-app.jpeg)
+
+*Ejemplo de visualización del dashboard*
+
 ### Características Principales
 
 - 📊 Carga de archivos CSV

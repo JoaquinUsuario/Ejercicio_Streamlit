@@ -15,4 +15,11 @@ nav:
 
 markdown_extensions:
   - pymdownx.highlight
-  - pymdownx.superfences 
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Martii03/Ejercicio_Streamlit 
