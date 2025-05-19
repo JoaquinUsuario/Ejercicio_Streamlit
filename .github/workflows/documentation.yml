@@ -2,7 +2,7 @@ name: Documentation
 on:
   push:
     branches:
-      - @Martii03/main
+      - '@Martii03'
 permissions:
   contents: write
 jobs:
